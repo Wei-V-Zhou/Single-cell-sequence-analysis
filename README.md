@@ -1,2 +1,3 @@
 # Single-cell-sequence-analysis
-sc-seq data analysis and normalization
+I handle the sc-seq data analysis and normalization;
+I make some efforts about present sc-seq analysis.
